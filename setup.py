@@ -19,7 +19,7 @@ setup(name='op_robot_tests',
       install_requires=[
           # -*- Extra requirements: -*-
           'Faker',
-          'Pillow',
+          'Pillow < 7.0.0',
           'PyYAML',
           'barbecue',
           'dateutils',
