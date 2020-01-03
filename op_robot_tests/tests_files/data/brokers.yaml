@@ -117,7 +117,7 @@ DZO:
             enquiry: [0, 20]
             tender:  [0, 20]
         belowThreshold:
-            enquiry: [0, 25]
+            enquiry: [0, 32]
             tender:  [0, 10]
             accelerator: 1440
         openua:
