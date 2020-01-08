@@ -169,7 +169,7 @@ users:
         password: 123456
         browser:  Chrome
         position: [0, 0]
-        size:     [1920, 1080]
+        size:     [1920, 10080]
     allbiz_Provider:
         broker:   tendersallbiz
         homepage: "http://test-tenders.all.biz"
