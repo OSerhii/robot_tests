@@ -21,6 +21,7 @@ ${award_index}      ${0}
   ...      find_tender  level1
   ...      critical
   Завантажити дані про тендер
+  Дочекатись дати початку періоду кваліфікації  ${viewer}  ${TENDER['TENDER_UAID']}
   :FOR  ${username}  IN  ${viewer}  ${tender_owner}
   \   ${resp}=  Run As  ${username}  Пошук тендера по ідентифікатору   ${TENDER['TENDER_UAID']}
 
