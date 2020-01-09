@@ -169,10 +169,10 @@ tendersallbiz:
             tender:  [0, 20]
         openua:
             accelerator: 720
-            tender:  [0, 60]
+            tender:  [0, 25]
         openeu:
             accelerator: 720
-            tender:  [0, 71]
+            tender:  [0, 25]
         openua_defense:
             accelerator: 720
             tender:  [0, 71]
