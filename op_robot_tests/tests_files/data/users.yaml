@@ -186,6 +186,14 @@ users:
         browser:  Chrome
         position: [0, 0]
         size:     [1920, 1080]
+    allbiz_Provider2:
+        broker:   tendersallbiz
+        homepage: "http://test-tenders.all.biz"
+        login:    prozorroyprovider3@gmail.com
+        password: 123456
+        browser:  Chrome
+        position: [0, 0]
+        size:     [1920, 1080]
     allbiz_Viewer:
         broker:   tendersallbiz
         homepage: "http://test-tenders.all.biz"

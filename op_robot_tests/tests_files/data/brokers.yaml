@@ -185,6 +185,7 @@ tendersallbiz:
         tender_owner:   allbiz_Owner
         provider:       allbiz_Provider
         provider1:      allbiz_Provider1
+        provider2:      allbiz_Provider2
         viewer:         allbiz_Viewer
     timeout_on_wait: 180
 tenderonline:
