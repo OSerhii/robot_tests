@@ -122,7 +122,9 @@ DZO:
             accelerator: 1440
         openua:
             accelerator: 720
-            tender:  [0, 30]
+            tender:  [0, 50]
+        open_competitive_dialogue:
+            tender:  [0,  60]
     keywords_file: dzo
     roles:
         tender_owner:   DZO_Owner
