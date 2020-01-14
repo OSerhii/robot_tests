@@ -104,7 +104,7 @@ users:
         size:     [1366, 800]
     DZO_Owner:
         broker:   DZO
-        homepage: "http://www.dzo.byustudio.in.ua"
+        homepage: "https://www.sandbox.dzo.com.ua"
         login:    prozorroytenderowner@gmail.com
         password: R713Fe3mt
         browser:  Chrome
@@ -112,7 +112,7 @@ users:
         size:     [1920, 1080]
     DZO_Provider:
         broker:   DZO
-        homepage: "http://www.dzo.byustudio.in.ua"
+        homepage: "https://www.sandbox.dzo.com.ua"
         login:    prozorroyprovider11@byustudio.in.ua
         password: wC5tz3yt4
         browser:  Chrome
@@ -120,7 +120,7 @@ users:
         size:     [1920, 1080]
     DZO_Provider1:
         broker:   DZO
-        homepage: "http://www.dzo.byustudio.in.ua"
+        homepage: "https://www.sandbox.dzo.com.ua"
         login:    prozorroyprovider2@byustudio.in.ua
         password: QGaS4nu4E
         browser:  Chrome
@@ -128,7 +128,7 @@ users:
         size:     [1920, 1080]
     DZO_Viewer:
         broker:   DZO
-        homepage: "http://www.dzo.byustudio.in.ua/?test_mode=1"
+        homepage: "https://www.sandbox.dzo.com.ua/?test_mode=1"
         browser:  Chrome
         position: [0, 0]
         size:     [1920, 1080]
