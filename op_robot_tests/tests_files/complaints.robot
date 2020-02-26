@@ -367,6 +367,7 @@ ${PLAN_TENDER}      ${True}
   ...     viewer
   ...     ${USERS.users['${viewer}'].broker}
   ...     tender_complaint
+  ...     test_complaint_to_exclude
   ...     non-critical
   [Setup]  Дочекатись синхронізації з майданчиком  ${viewer}
   Звірити відображення поля status для вимоги ${USERS.users['${provider}'].tender_claim_data['complaintID']} із resolved для користувача ${viewer}
@@ -432,6 +433,7 @@ ${PLAN_TENDER}      ${True}
   ...     viewer
   ...     ${USERS.users['${viewer}'].broker}
   ...     tender_complaint
+  ...     test_complaint_to_exclude
   ...     non-critical
   [Setup]  Дочекатись зміни статусу вимоги  ${provider}  invalid  ${USERS.users['${provider}'].lot_claim_data['complaintID']}
   [Teardown]  Оновити LAST_MODIFICATION_DATE
